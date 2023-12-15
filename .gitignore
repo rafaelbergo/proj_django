@@ -2,3 +2,11 @@ __pycache__/
 .pytest_cache/
 .vscode/
 venv/
+
+# Django files
+*.log
+*.pot
+*.pyc
+media/
+
+*.bak
