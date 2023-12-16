@@ -10,3 +10,4 @@ venv/
 media/
 
 *.bak
+db.sqlite3
